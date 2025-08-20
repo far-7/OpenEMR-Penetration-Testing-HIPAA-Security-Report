@@ -50,3 +50,4 @@ The assessment simulated real-world attack vectors while aligning with **HIPAA S
 The full penetration test and HIPAA impact report (with evidence & screenshots) is included in this repository.  
 
 **Author:** Faris Ali  
+[OpenEMR_Pentest_HIPAA_Report.pdf](https://github.com/user-attachments/files/21907376/OpenEMR_Pentest_HIPAA_Report.pdf)
